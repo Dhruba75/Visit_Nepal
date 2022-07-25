@@ -246,10 +246,6 @@ header .icons i:hover{
   text-align: justify;
 }
 
-.packages .box-container .box .content .stars i{
-  font-size:1.7rem;
-  color:var(--springgreen);
-}
 
 .packages .box-container .box .content .price{
   font-size: 2rem;
